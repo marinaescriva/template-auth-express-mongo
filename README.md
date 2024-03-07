@@ -36,4 +36,4 @@ creamos controlador
 creamos la ruta
 
 
-
+npm i jsonwebtoken
