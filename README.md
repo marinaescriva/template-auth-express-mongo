@@ -27,5 +27,13 @@ $ npm i dotenv -E
 npm i mongoose
 ```
 
+```
+npm i bcrypt
+```
+
+creamos modelo
+creamos controlador
+creamos la ruta
+
 
 
